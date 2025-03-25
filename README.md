@@ -14,8 +14,6 @@ Principais features:
  - Gerenciamento de Anúncios de PETS;
  - Interação com Anúncios;
  - Gerenciamento de Perfil e Interações Sociais;
- - Moderação de Conteúdo;
- - Gerenciamento de Denúncias e Avaliações;
 
 ## Tecnologias
 
