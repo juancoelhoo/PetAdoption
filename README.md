@@ -21,7 +21,6 @@ Principais features:
 - Express.js (Back-end)
 - React.js (Front-end)
 - SQLite (Banco de dados)
-- Jest (Testes)
 - Figma (Prototipação)
 
 ## Backlog do Produto 
