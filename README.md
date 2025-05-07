@@ -23,7 +23,7 @@ Principais features:
 - SQLite (Banco de dados)
 - Figma (Prototipação)
 
-## Backlog do Produto 
+## Backlog
 - Como usuário comum, gostaria de criar e deletar um anúncio PET. ✅
 - Como usuário comum, gostaria de me cadastrar na plataforma.  ✅
 - Como usuário comum, gostaria de adicionar fotos ao anúncio do PET. ✅
@@ -41,7 +41,7 @@ Principais features:
 - Como usuário administrador, gostaria de censurar avaliações e comentários com conteúdo ofensivo.
 - Como usuário administrador, gostaria de avaliar denuncia de perfis e posts realizadas por usuários comuns. 
 
-## Backlog da Sprint 2
+## Backlog
 
 •	História #1: Como usuário comum, quero poder me cadastrar na plataforma.
 •	Status: ✅
